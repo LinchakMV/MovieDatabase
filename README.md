@@ -1,4 +1,4 @@
-## DEMO APP (lynchak-mv-movies-db.surge.sh)
+## DEMO APP (http://lynchak-mv-movies-db.surge.sh)
 
 # How to start developing
 
